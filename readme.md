@@ -4,4 +4,4 @@ It was created using the React Redux Complete tutorial playlist on The Net Ninja
 
 The target end user is someone who wants to get started blogging on their own platform, building their own website, but doesn't know where to begin and could benefit from a customizable but easy to use template.
 
-Link to publicly deployed app/template will soon follow.
+App publicly deployed [here](https://your-blog-template.herokuapp.com/).
